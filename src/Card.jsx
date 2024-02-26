@@ -10,6 +10,7 @@ const Card = () => {
       <Count />
       <ResetButton />
       <ButtonContainer />
+      <p></p>
     </div>
   );
 };
